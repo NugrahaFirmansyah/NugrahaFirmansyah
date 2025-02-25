@@ -144,6 +144,6 @@
 
 <br>
 
-Credit: [Nugraha Firmansyah](https://github.com/NugrahaFirmansyah)
+Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
